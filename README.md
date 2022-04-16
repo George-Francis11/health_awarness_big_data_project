@@ -1,4 +1,4 @@
-# health_awarness_big_data_project
+# Health Awarness Big Data Project
 This is a project to scrap tweets reagrding the topics related to health awarness, analyze them, and show the impact covid-19 made on people's health awarness
 
 ## Data Collection Methods
